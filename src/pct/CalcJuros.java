@@ -13,7 +13,8 @@ import java.util.Scanner;
  */
 public class CalcJuros {
     public static void main(String[] args) {
-        double j, c, i, n;
+        double j, c, i, n; 
+        // variaveis
         Scanner entrada = new Scanner(System.in);
         System.out.println("\n\t\t\t -- Calculadora de Juros --\n");
         System.out.print("Capital  (R$) : ");
